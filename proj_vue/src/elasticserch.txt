@@ -1,0 +1,15 @@
+//GET http://localhost:9200/customers/_doc/_search/?pretty=true
+// import axios from 'axios'
+
+// export function loadData() {
+// axios.get('http://localhost:9200/customers/_doc/_search/?pretty=true',{
+//         params:{
+//             source: JSON.stringify(query),
+//             source_content_type: 'application/json' ,
+
+//         },
+        
+//        }).then(response => response.data.hits.hits,
+//               console.log(responce));
+
+// }
